@@ -1,2 +1,2 @@
-# .yazdanrfgithub.io
+# yazdanrf.github.io
 My personal portfolio website
